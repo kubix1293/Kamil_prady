@@ -1,4 +1,3 @@
 csv POSTGRES IMPORTERS
-*.zip
 *.sql
 *backup*
